@@ -1,4 +1,4 @@
-# handy-tools
+# Handy tools for ensuring secure and reliable infrastructure
 List of interesting links
 
 ## Security Tools
